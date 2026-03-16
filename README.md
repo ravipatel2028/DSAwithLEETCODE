@@ -25,6 +25,21 @@ Each file contains problems and solutions related to that question number on lee
 
 ---
 
+## 📂 Repository Structure
+dsawithleetcode/
+ │── Arrays/ 
+ │── Strings/ 
+ │── LinkedList/ 
+ │── Trees/ 
+ │── Graphs/ 
+ │── DynamicProgramming/ 
+ │── Miscellaneous/ 
+ │── README.md
+
+
+
+---
+
 ## How to Use
 1. Clone the repository:
    ```bash
